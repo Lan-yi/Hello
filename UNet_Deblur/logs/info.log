@@ -1,0 +1,1915 @@
+2022-07-25 20:46:49 - INFO - __main__[line:149]: Using device cpu
+2022-07-25 20:46:49 - INFO - __main__[line:157]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-25 20:46:49 - INFO - utils.dataset[line:25]: Creating dataset with 3521 examples
+2022-07-25 20:46:49 - INFO - __main__[line:51]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   3169
+        Validation size: 352
+        Checkpoints:     True
+        Device:          cpu
+        Images scaling:  0.5
+    
+2022-07-25 20:51:07 - INFO - __main__[line:149]: Using device cpu
+2022-07-25 20:51:07 - INFO - __main__[line:157]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-25 20:51:07 - INFO - utils.dataset[line:25]: Creating dataset with 11 examples
+2022-07-25 20:51:07 - INFO - __main__[line:51]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   10
+        Validation size: 1
+        Checkpoints:     True
+        Device:          cpu
+        Images scaling:  0.5
+    
+2022-07-25 21:07:02 - INFO - __main__[line:149]: Using device cpu
+2022-07-25 21:07:02 - INFO - __main__[line:157]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-25 21:07:02 - INFO - utils.dataset[line:25]: Creating dataset with 11 examples
+2022-07-25 21:07:02 - INFO - __main__[line:51]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   10
+        Validation size: 1
+        Checkpoints:     True
+        Device:          cpu
+        Images scaling:  0.5
+    
+2022-07-25 21:07:41 - INFO - __main__[line:149]: Using device cpu
+2022-07-25 21:07:41 - INFO - __main__[line:157]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-25 21:07:41 - INFO - utils.dataset[line:25]: Creating dataset with 11 examples
+2022-07-25 21:07:41 - INFO - __main__[line:51]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   10
+        Validation size: 1
+        Checkpoints:     True
+        Device:          cpu
+        Images scaling:  0.5
+    
+2022-07-25 21:09:09 - INFO - __main__[line:149]: Using device cpu
+2022-07-25 21:09:09 - INFO - __main__[line:157]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-25 21:09:09 - INFO - utils.dataset[line:25]: Creating dataset with 11 examples
+2022-07-25 21:09:09 - INFO - __main__[line:51]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   10
+        Validation size: 1
+        Checkpoints:     True
+        Device:          cpu
+        Images scaling:  0.5
+    
+2022-07-25 21:09:53 - INFO - __main__[line:149]: Using device cpu
+2022-07-25 21:09:53 - INFO - __main__[line:157]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-25 21:09:53 - INFO - utils.dataset[line:25]: Creating dataset with 11 examples
+2022-07-25 21:09:53 - INFO - __main__[line:51]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   10
+        Validation size: 1
+        Checkpoints:     True
+        Device:          cpu
+        Images scaling:  0.5
+    
+2022-07-25 21:11:32 - INFO - __main__[line:149]: Using device cpu
+2022-07-25 21:11:32 - INFO - __main__[line:157]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-25 21:11:32 - INFO - utils.dataset[line:25]: Creating dataset with 11 examples
+2022-07-25 21:11:32 - INFO - __main__[line:51]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   10
+        Validation size: 1
+        Checkpoints:     True
+        Device:          cpu
+        Images scaling:  0.5
+    
+2022-07-25 21:13:07 - INFO - __main__[line:113]: Validation Dice Coeff: 2.661366127476583e-10
+2022-07-25 21:14:27 - INFO - __main__[line:113]: Validation Dice Coeff: 2.661366127476583e-10
+2022-07-25 21:16:40 - INFO - __main__[line:113]: Validation Dice Coeff: 2.661366127476583e-10
+2022-07-25 21:18:37 - INFO - __main__[line:149]: Using device cpu
+2022-07-25 21:18:37 - INFO - __main__[line:157]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-25 21:18:37 - INFO - utils.dataset[line:25]: Creating dataset with 11 examples
+2022-07-25 21:18:37 - INFO - __main__[line:51]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   10
+        Validation size: 1
+        Checkpoints:     True
+        Device:          cpu
+        Images scaling:  0.5
+    
+2022-07-25 21:19:55 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:21:10 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:22:15 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:23:22 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:24:38 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:25:38 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:27:16 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:29:45 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:32:27 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:34:00 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:34:06 - INFO - __main__[line:118]: Created checkpoint directory
+2022-07-25 21:34:07 - INFO - __main__[line:123]: Checkpoint 1 saved !
+2022-07-25 21:35:36 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:37:14 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:38:20 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:39:37 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:40:44 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:42:03 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:43:05 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:44:18 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:45:29 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:46:40 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:46:45 - ERROR - __main__[line:120]: Failed to created checkpoint directory!
+2022-07-25 21:46:46 - INFO - __main__[line:123]: Checkpoint 2 saved !
+2022-07-25 21:47:55 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:49:59 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:51:13 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:52:23 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:53:44 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:55:25 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:56:37 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:58:03 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 21:59:08 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:00:17 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:00:21 - ERROR - __main__[line:120]: Failed to created checkpoint directory!
+2022-07-25 22:00:22 - INFO - __main__[line:123]: Checkpoint 3 saved !
+2022-07-25 22:01:37 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:02:59 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:04:21 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:05:35 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:06:42 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:07:49 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:09:21 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:10:35 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:11:43 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:12:46 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:12:51 - ERROR - __main__[line:120]: Failed to created checkpoint directory!
+2022-07-25 22:12:53 - INFO - __main__[line:123]: Checkpoint 4 saved !
+2022-07-25 22:14:20 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:15:31 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:16:38 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:18:01 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:19:06 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:20:27 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:21:48 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:22:49 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:23:49 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:25:16 - INFO - __main__[line:113]: Validation Dice Coeff: 2.2276656963526875e-08
+2022-07-25 22:25:21 - ERROR - __main__[line:120]: Failed to created checkpoint directory!
+2022-07-25 22:25:24 - INFO - __main__[line:123]: Checkpoint 5 saved !
+2022-07-26 00:04:40 - INFO - __main__[line:118]: Loading model MODEL.pth
+2022-07-26 00:04:40 - INFO - __main__[line:121]: Using device cpu
+2022-07-26 00:09:58 - INFO - __main__[line:118]: Loading model MODEL.pth
+2022-07-26 00:09:58 - INFO - __main__[line:121]: Using device cpu
+2022-07-26 00:13:22 - INFO - __main__[line:118]: Loading model .checkpoints\CP_epoch5.pth
+2022-07-26 00:13:22 - INFO - __main__[line:121]: Using device cpu
+2022-07-26 00:14:58 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-26 00:14:58 - INFO - __main__[line:121]: Using device cpu
+2022-07-26 00:14:59 - INFO - __main__[line:125]: Model loaded !
+2022-07-26 00:14:59 - INFO - __main__[line:128]: 
+Predicting image SmoothIm3.2ModelInv_rot10.bmp ...
+2022-07-26 00:15:53 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-26 00:15:53 - INFO - __main__[line:121]: Using device cpu
+2022-07-26 00:15:53 - INFO - __main__[line:125]: Model loaded !
+2022-07-26 00:15:53 - INFO - __main__[line:128]: 
+Predicting image image.jpg ...
+2022-07-26 00:18:53 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-26 00:18:53 - INFO - __main__[line:121]: Using device cpu
+2022-07-26 00:18:53 - INFO - __main__[line:125]: Model loaded !
+2022-07-26 00:18:53 - INFO - __main__[line:128]: 
+Predicting image SmoothIm3.2ModelInv_rot10.bmp ...
+2022-07-26 00:19:04 - INFO - __main__[line:145]: Mask saved to data\SmoothIm3.2ModelInv_rot10_OUT.bmp
+2022-07-26 10:29:19 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-26 10:29:19 - INFO - __main__[line:121]: Using device cpu
+2022-07-26 10:29:20 - INFO - __main__[line:125]: Model loaded !
+2022-07-26 10:29:20 - INFO - __main__[line:128]: 
+Predicting image SmoothIm10ModelInv.bmp ...
+2022-07-26 10:29:32 - INFO - __main__[line:145]: Mask saved to data\SmoothIm10ModelInv_OUT.bmp
+2022-07-26 10:30:56 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-26 10:30:56 - INFO - __main__[line:121]: Using device cpu
+2022-07-26 10:30:56 - INFO - __main__[line:125]: Model loaded !
+2022-07-26 10:30:56 - INFO - __main__[line:128]: 
+Predicting image SmoothIm10ModelInv.bmp ...
+2022-07-26 10:31:08 - INFO - __main__[line:145]: Mask saved to data\SmoothIm10ModelInv_OUT.bmp
+2022-07-26 10:33:53 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-26 10:33:53 - INFO - __main__[line:121]: Using device cpu
+2022-07-26 10:33:53 - INFO - __main__[line:125]: Model loaded !
+2022-07-26 10:33:53 - INFO - __main__[line:128]: 
+Predicting image SmoothIm5.0ModelInv_mir.bmp ...
+2022-07-26 10:34:05 - INFO - __main__[line:145]: Mask saved to data\SmoothIm5.0ModelInv_mir_OUT.bmp
+2022-07-26 10:37:39 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-26 10:37:39 - INFO - __main__[line:121]: Using device cpu
+2022-07-26 10:37:39 - INFO - __main__[line:125]: Model loaded !
+2022-07-26 10:37:39 - INFO - __main__[line:128]: 
+Predicting image SmoothIm6.3ModelInv_mir.bmp ...
+2022-07-26 10:37:52 - INFO - __main__[line:145]: Mask saved to data\SmoothIm6.3ModelInv_mir_OUT.bmp
+2022-07-28 20:45:19 - INFO - __main__[line:149]: Using device cuda
+2022-07-28 20:45:20 - INFO - __main__[line:157]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 20:45:21 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 20:45:21 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 21:04:58 - INFO - __main__[line:149]: Using device cuda
+2022-07-28 21:04:59 - INFO - __main__[line:157]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 21:05:00 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 21:05:00 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 21:13:05 - INFO - __main__[line:152]: Using device cuda
+2022-07-28 21:13:06 - INFO - __main__[line:160]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 21:13:07 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 21:13:07 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 21:16:43 - INFO - __main__[line:152]: Using device cuda
+2022-07-28 21:16:43 - INFO - __main__[line:160]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 21:16:44 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 21:16:44 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 21:23:00 - INFO - __main__[line:152]: Using device cuda
+2022-07-28 21:23:01 - INFO - __main__[line:160]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 21:23:01 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 21:23:01 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 21:49:37 - INFO - __main__[line:152]: Using device cuda
+2022-07-28 21:49:38 - INFO - __main__[line:160]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 21:49:38 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 21:49:38 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 21:56:57 - INFO - __main__[line:152]: Using device cuda
+2022-07-28 21:56:57 - INFO - __main__[line:160]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 21:56:58 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 21:56:58 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 22:02:18 - INFO - __main__[line:152]: Using device cuda
+2022-07-28 22:02:18 - INFO - __main__[line:160]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 22:02:19 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 22:02:19 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 22:06:17 - INFO - __main__[line:152]: Using device cuda
+2022-07-28 22:06:17 - INFO - __main__[line:160]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 22:06:18 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 22:06:18 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 22:08:13 - INFO - __main__[line:152]: Using device cuda
+2022-07-28 22:08:13 - INFO - __main__[line:160]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 22:08:14 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 22:08:14 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 22:16:30 - INFO - __main__[line:153]: Using device cuda
+2022-07-28 22:16:30 - INFO - __main__[line:161]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 22:16:30 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 22:16:30 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 22:17:34 - INFO - __main__[line:153]: Using device cuda
+2022-07-28 22:17:34 - INFO - __main__[line:161]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 22:17:35 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 22:17:35 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      2
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 22:18:14 - INFO - __main__[line:153]: Using device cuda
+2022-07-28 22:18:14 - INFO - __main__[line:161]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 22:18:14 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 22:18:14 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 22:24:14 - INFO - __main__[line:153]: Using device cuda
+2022-07-28 22:24:14 - INFO - __main__[line:161]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 22:24:15 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 22:24:15 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 22:26:20 - INFO - __main__[line:154]: Using device cuda
+2022-07-28 22:26:20 - INFO - __main__[line:162]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 22:26:21 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 22:26:21 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 22:28:08 - INFO - __main__[line:154]: Using device cuda
+2022-07-28 22:28:09 - INFO - __main__[line:162]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 22:28:09 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 22:28:09 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 22:29:32 - INFO - __main__[line:155]: Using device cuda
+2022-07-28 22:29:32 - INFO - __main__[line:163]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 22:29:33 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 22:29:33 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 22:30:06 - INFO - __main__[line:153]: Using device cuda
+2022-07-28 22:30:06 - INFO - __main__[line:161]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 22:30:06 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 22:30:06 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 22:31:40 - INFO - __main__[line:153]: Using device cuda
+2022-07-28 22:31:40 - INFO - __main__[line:161]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 22:31:41 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 22:31:41 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 22:43:16 - INFO - __main__[line:158]: Using device cuda
+2022-07-28 22:43:17 - INFO - __main__[line:166]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-28 22:43:17 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-28 22:43:17 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-28 22:45:21 - INFO - __main__[line:122]: Validation Dice Coeff: 0.17559819748231137
+2022-07-28 22:47:22 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18931576988409057
+2022-07-28 22:49:21 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18320192448579922
+2022-07-28 22:51:19 - INFO - __main__[line:122]: Validation Dice Coeff: 0.177259472789816
+2022-07-28 22:53:15 - INFO - __main__[line:122]: Validation Dice Coeff: 0.17975187193279943
+2022-07-28 22:55:12 - INFO - __main__[line:122]: Validation Dice Coeff: 0.1785930612196143
+2022-07-28 22:59:06 - INFO - __main__[line:122]: Validation Dice Coeff: 0.17478788361992115
+2022-07-28 23:01:35 - INFO - __main__[line:122]: Validation Dice Coeff: 0.17597033629695383
+2022-07-28 23:03:33 - INFO - __main__[line:122]: Validation Dice Coeff: 0.1760246549697163
+2022-07-28 23:05:30 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18148911115713418
+2022-07-28 23:05:34 - ERROR - __main__[line:129]: Failed to created checkpoint directory!
+2022-07-28 23:05:35 - INFO - __main__[line:132]: Checkpoint 1 saved !
+2022-07-28 23:07:25 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18133651805468476
+2022-07-28 23:09:22 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18007785631701922
+2022-07-28 23:11:19 - INFO - __main__[line:122]: Validation Dice Coeff: 0.17806049344989544
+2022-07-28 23:13:15 - INFO - __main__[line:122]: Validation Dice Coeff: 0.1855900601322691
+2022-07-28 23:15:12 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18194012729845083
+2022-07-28 23:17:11 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18092941624434808
+2022-07-28 23:19:08 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18207361489140356
+2022-07-28 23:21:04 - INFO - __main__[line:122]: Validation Dice Coeff: 0.17846440344762343
+2022-07-28 23:23:00 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18222109760301045
+2022-07-28 23:24:56 - INFO - __main__[line:122]: Validation Dice Coeff: 0.1787349023999503
+2022-07-28 23:25:03 - ERROR - __main__[line:129]: Failed to created checkpoint directory!
+2022-07-28 23:25:04 - INFO - __main__[line:132]: Checkpoint 2 saved !
+2022-07-28 23:26:50 - INFO - __main__[line:122]: Validation Dice Coeff: 0.1805647406816626
+2022-07-28 23:28:44 - INFO - __main__[line:122]: Validation Dice Coeff: 0.178745824449624
+2022-07-28 23:30:40 - INFO - __main__[line:122]: Validation Dice Coeff: 0.1830974607549321
+2022-07-28 23:32:45 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18099749222612724
+2022-07-28 23:34:41 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18110245743838066
+2022-07-28 23:36:37 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18072234010861182
+2022-07-28 23:38:33 - INFO - __main__[line:122]: Validation Dice Coeff: 0.17843614073577696
+2022-07-28 23:40:27 - INFO - __main__[line:122]: Validation Dice Coeff: 0.17799451934675184
+2022-07-28 23:42:20 - INFO - __main__[line:122]: Validation Dice Coeff: 0.1807650697345917
+2022-07-28 23:44:17 - INFO - __main__[line:122]: Validation Dice Coeff: 0.17998847148667735
+2022-07-28 23:44:27 - ERROR - __main__[line:129]: Failed to created checkpoint directory!
+2022-07-28 23:44:27 - INFO - __main__[line:132]: Checkpoint 3 saved !
+2022-07-28 23:46:08 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18200432886190426
+2022-07-28 23:48:04 - INFO - __main__[line:122]: Validation Dice Coeff: 0.1771537283829485
+2022-07-28 23:50:01 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18293440204042083
+2022-07-28 23:51:58 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18192083130662257
+2022-07-28 23:53:54 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18504032858898148
+2022-07-28 23:55:46 - INFO - __main__[line:122]: Validation Dice Coeff: 0.1764814915995185
+2022-07-28 23:57:38 - INFO - __main__[line:122]: Validation Dice Coeff: 0.1823010696366859
+2022-07-28 23:59:30 - INFO - __main__[line:122]: Validation Dice Coeff: 0.1784133738032184
+2022-07-29 00:01:26 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18200805243283796
+2022-07-29 00:03:23 - INFO - __main__[line:122]: Validation Dice Coeff: 0.1782797641443232
+2022-07-29 00:03:36 - ERROR - __main__[line:129]: Failed to created checkpoint directory!
+2022-07-29 00:03:36 - INFO - __main__[line:132]: Checkpoint 4 saved !
+2022-07-29 00:05:15 - INFO - __main__[line:122]: Validation Dice Coeff: 0.1803782509120468
+2022-07-29 00:07:11 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18113543639461008
+2022-07-29 00:09:08 - INFO - __main__[line:122]: Validation Dice Coeff: 0.17825145184850463
+2022-07-29 00:11:04 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18183744157879397
+2022-07-29 00:13:01 - INFO - __main__[line:122]: Validation Dice Coeff: 0.17771917132911488
+2022-07-29 00:14:57 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18225651055287856
+2022-07-29 00:16:53 - INFO - __main__[line:122]: Validation Dice Coeff: 0.17769168072845787
+2022-07-29 00:18:49 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18289415383389077
+2022-07-29 00:20:47 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18166879748997206
+2022-07-29 00:22:44 - INFO - __main__[line:122]: Validation Dice Coeff: 0.18391098756378946
+2022-07-29 00:23:00 - ERROR - __main__[line:129]: Failed to created checkpoint directory!
+2022-07-29 00:23:00 - INFO - __main__[line:132]: Checkpoint 5 saved !
+2022-07-30 00:24:45 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-30 00:24:45 - INFO - __main__[line:121]: Using device cpu
+2022-07-30 00:24:46 - INFO - __main__[line:125]: Model loaded !
+2022-07-30 00:24:46 - INFO - __main__[line:128]: 
+Predicting image .random/test/images/3.2_affdown300.bmp ...
+2022-07-30 00:26:12 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-30 00:26:12 - INFO - __main__[line:121]: Using device cpu
+2022-07-30 00:26:13 - INFO - __main__[line:125]: Model loaded !
+2022-07-30 00:26:13 - INFO - __main__[line:128]: 
+Predicting image ..data/random/test/images/3.2_affdown300.bmp ...
+2022-07-30 00:31:20 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-30 00:31:20 - INFO - __main__[line:121]: Using device cpu
+2022-07-30 00:31:20 - INFO - __main__[line:125]: Model loaded !
+2022-07-30 00:31:20 - INFO - __main__[line:128]: 
+Predicting image 3.2_affdown300.bmp ...
+2022-07-30 00:32:15 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-30 00:32:15 - INFO - __main__[line:121]: Using device cpu
+2022-07-30 00:32:15 - INFO - __main__[line:125]: Model loaded !
+2022-07-30 00:32:15 - INFO - __main__[line:128]: 
+Predicting image 3.2_affdown100.bmp ...
+2022-07-30 00:36:25 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-30 00:36:25 - INFO - __main__[line:121]: Using device cuda
+2022-07-30 00:36:39 - INFO - __main__[line:125]: Model loaded !
+2022-07-30 00:36:39 - INFO - __main__[line:128]: 
+Predicting image 3.2_affdown100.bmp ...
+2022-07-30 00:38:40 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-30 00:38:40 - INFO - __main__[line:121]: Using device cuda
+2022-07-30 00:38:42 - INFO - __main__[line:125]: Model loaded !
+2022-07-30 00:38:42 - INFO - __main__[line:128]: 
+Predicting image 3.2_affdown300.bmp ...
+2022-07-30 00:42:00 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-30 00:42:00 - INFO - __main__[line:121]: Using device cuda
+2022-07-30 00:49:05 - INFO - __main__[line:118]: Loading model checkpoints/CP_epoch5.pth
+2022-07-30 00:49:05 - INFO - __main__[line:121]: Using device cuda
+2022-07-30 00:49:08 - INFO - __main__[line:125]: Model loaded !
+2022-07-30 00:49:08 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.2_affdown300.bmp ...
+2022-07-30 00:49:35 - INFO - __main__[line:145]: Mask saved to data/random/output\3.2_affdown300_OUT.bmp
+2022-07-30 00:51:12 - INFO - __main__[line:118]: Loading model checkpoints/CP_epoch5.pth
+2022-07-30 00:51:12 - INFO - __main__[line:121]: Using device cuda
+2022-07-30 00:51:14 - INFO - __main__[line:125]: Model loaded !
+2022-07-30 00:51:14 - INFO - __main__[line:128]: 
+Predicting image data/random/train/images/3.2.bmp ...
+2022-07-30 00:51:17 - INFO - __main__[line:145]: Mask saved to data/random/output\3.2_OUT.bmp
+2022-07-30 00:51:56 - INFO - __main__[line:118]: Loading model checkpoints/CP_epoch1.pth
+2022-07-30 00:51:56 - INFO - __main__[line:121]: Using device cuda
+2022-07-30 00:51:59 - INFO - __main__[line:125]: Model loaded !
+2022-07-30 00:51:59 - INFO - __main__[line:128]: 
+Predicting image data/random/train/images/3.2.bmp ...
+2022-07-30 00:52:02 - INFO - __main__[line:145]: Mask saved to data/random/output\3.2_OUT.bmp
+2022-07-30 00:52:40 - INFO - __main__[line:118]: Loading model checkpoints/CP_epoch1.pth
+2022-07-30 00:52:40 - INFO - __main__[line:121]: Using device cuda
+2022-07-30 00:52:42 - INFO - __main__[line:125]: Model loaded !
+2022-07-30 00:52:42 - INFO - __main__[line:128]: 
+Predicting image data/random/train/images/3.2.bmp ...
+2022-07-30 00:52:44 - INFO - __main__[line:145]: Mask saved to data/random/output\3.2_OUT.bmp
+2022-07-30 11:09:23 - INFO - __main__[line:155]: Using device cuda
+2022-07-30 11:09:23 - INFO - __main__[line:163]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-30 11:09:24 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-30 11:09:24 - INFO - __main__[line:58]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-30 11:11:59 - INFO - __main__[line:119]: Validation Dice Coeff: 0.1778036948526278
+2022-07-30 11:13:55 - INFO - __main__[line:119]: Validation Dice Coeff: 0.18022250896319747
+2022-07-30 11:15:52 - INFO - __main__[line:119]: Validation Dice Coeff: 0.17937973164057788
+2022-07-30 11:16:22 - INFO - __main__[line:155]: Using device cuda
+2022-07-30 11:16:23 - INFO - __main__[line:163]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-30 11:16:23 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-30 11:16:23 - INFO - __main__[line:58]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-30 21:49:47 - INFO - __main__[line:157]: Using device cuda
+2022-07-30 21:49:47 - INFO - __main__[line:165]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-30 21:49:48 - INFO - utils.dataset[line:25]: Creating dataset with 11 examples
+2022-07-30 21:49:48 - INFO - __main__[line:60]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   10
+        Validation size: 1
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-30 21:50:27 - INFO - __main__[line:121]: Validation Dice Coeff: 0.0708344355225563
+2022-07-30 21:50:31 - INFO - __main__[line:121]: Validation Dice Coeff: 0.0708344355225563
+2022-07-30 21:50:34 - INFO - __main__[line:121]: Validation Dice Coeff: 0.0708344355225563
+2022-07-30 21:50:38 - INFO - __main__[line:121]: Validation Dice Coeff: 0.0708344355225563
+2022-07-30 21:50:41 - INFO - __main__[line:121]: Validation Dice Coeff: 0.0708344355225563
+2022-07-30 21:50:45 - INFO - __main__[line:121]: Validation Dice Coeff: 0.0708344355225563
+2022-07-30 21:50:48 - INFO - __main__[line:121]: Validation Dice Coeff: 0.0708344355225563
+2022-07-30 21:50:52 - INFO - __main__[line:121]: Validation Dice Coeff: 0.07089577615261078
+2022-07-30 21:51:23 - INFO - __main__[line:155]: Using device cuda
+2022-07-30 21:51:23 - INFO - __main__[line:163]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-30 21:51:24 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-30 21:51:24 - INFO - __main__[line:58]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-30 21:53:00 - INFO - __main__[line:155]: Using device cuda
+2022-07-30 21:53:00 - INFO - __main__[line:163]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-30 21:53:00 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-30 21:53:00 - INFO - __main__[line:58]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-30 21:54:15 - INFO - __main__[line:158]: Using device cuda
+2022-07-30 21:54:15 - INFO - __main__[line:166]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-30 21:54:16 - INFO - utils.dataset[line:25]: Creating dataset with 11 examples
+2022-07-30 21:54:16 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   10
+        Validation size: 1
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-07-30 21:55:22 - INFO - __main__[line:159]: Using device cpu
+2022-07-30 21:55:23 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-30 21:55:23 - INFO - utils.dataset[line:25]: Creating dataset with 11 examples
+2022-07-30 21:55:23 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   10
+        Validation size: 1
+        Checkpoints:     True
+        Device:          cpu
+        Images scaling:  0.5
+    
+2022-07-30 21:56:49 - INFO - __main__[line:122]: Validation Dice Coeff: 2.661366127476583e-10
+2022-07-30 21:57:31 - INFO - __main__[line:159]: Using device cpu
+2022-07-30 21:57:32 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-07-30 21:57:32 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-07-30 21:57:32 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cpu
+        Images scaling:  0.5
+    
+2022-08-03 13:54:31 - INFO - __main__[line:159]: Using device cpu
+2022-08-03 13:54:31 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 13:54:31 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 13:54:31 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cpu
+        Images scaling:  0.5
+    
+2022-08-03 13:59:31 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 13:59:32 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 13:59:33 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 13:59:33 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 20:42:16 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 20:42:16 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 20:42:17 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 20:42:17 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 20:50:02 - INFO - __main__[line:162]: Using device cuda
+2022-08-03 20:50:02 - INFO - __main__[line:170]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 20:50:03 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 20:50:03 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 20:52:19 - INFO - __main__[line:162]: Using device cuda
+2022-08-03 20:52:19 - INFO - __main__[line:170]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 20:52:20 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 20:52:20 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 20:53:44 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 20:53:44 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 20:53:45 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 20:53:45 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 20:54:12 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 20:54:12 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 20:54:13 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 20:54:13 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 20:54:36 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 20:54:36 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 20:54:36 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 20:54:36 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 20:54:49 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 20:54:49 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 20:54:50 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 20:54:50 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 20:55:10 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 20:55:10 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 20:55:10 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 20:55:10 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 20:57:01 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 20:57:01 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 20:57:02 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 20:57:02 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 20:57:31 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 20:57:31 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 20:57:31 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 20:57:31 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      2
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 20:59:13 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 20:59:14 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 20:59:14 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 20:59:14 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      16
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 20:59:48 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 20:59:48 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 20:59:48 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 20:59:48 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      8
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 21:46:25 - INFO - __main__[line:159]: Using device cpu
+2022-08-03 21:46:25 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 21:46:25 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 21:46:25 - INFO - __main__[line:52]: Starting training:
+        Epochs:          5
+        Batch size:      8
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cpu
+        Images scaling:  0.5
+    
+2022-08-03 21:49:32 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 21:49:33 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 21:49:35 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 21:49:35 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      8
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 21:54:34 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 21:54:34 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 21:54:34 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 21:54:34 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      8
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 21:55:06 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 21:55:06 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 21:55:06 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 21:55:06 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      8
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.3
+    
+2022-08-03 21:56:05 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 21:56:05 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 21:56:05 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 21:56:05 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      8
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.8
+    
+2022-08-03 21:57:36 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 21:57:36 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 21:57:36 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 21:57:36 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      8
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+    
+2022-08-03 21:58:29 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 21:58:29 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 21:58:29 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 21:58:29 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.3
+    
+2022-08-03 23:01:48 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 23:01:48 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 23:01:49 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 23:01:49 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.3
+    
+2022-08-03 23:03:40 - INFO - __main__[line:122]: Validation Dice Coeff: 0.4909142896484105
+2022-08-03 23:06:51 - INFO - __main__[line:159]: Using device cuda
+2022-08-03 23:06:51 - INFO - __main__[line:167]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-03 23:06:52 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-03 23:06:52 - INFO - __main__[line:61]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.3
+    
+2022-08-03 23:08:41 - INFO - __main__[line:122]: Validation Dice Coeff: 0.7393310603040916
+2022-08-03 23:10:23 - INFO - __main__[line:122]: Validation Dice Coeff: 0.7096647299253024
+2022-08-03 23:12:05 - INFO - __main__[line:122]: Validation Dice Coeff: 0.7999866719429309
+2022-08-03 23:13:47 - INFO - __main__[line:122]: Validation Dice Coeff: 0.7647203550888941
+2022-08-03 23:15:28 - INFO - __main__[line:122]: Validation Dice Coeff: 0.7552477705937165
+2022-08-03 23:17:09 - INFO - __main__[line:122]: Validation Dice Coeff: 0.7757148421727694
+2022-08-03 23:18:52 - INFO - __main__[line:122]: Validation Dice Coeff: 0.8069778359853305
+2022-08-03 23:20:35 - INFO - __main__[line:122]: Validation Dice Coeff: 0.8183629398162549
+2022-08-03 23:22:17 - INFO - __main__[line:122]: Validation Dice Coeff: 0.8163783435638134
+2022-08-03 23:23:59 - INFO - __main__[line:122]: Validation Dice Coeff: 0.7997347414493561
+2022-08-03 23:24:03 - ERROR - __main__[line:129]: Failed to created checkpoint directory!
+2022-08-03 23:24:04 - INFO - __main__[line:132]: Checkpoint 1 saved !
+2022-08-03 23:27:39 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random2/CP_epoch1.pth
+2022-08-03 23:27:39 - INFO - __main__[line:121]: Using device cuda
+2022-08-03 23:27:42 - INFO - __main__[line:125]: Model loaded !
+2022-08-03 23:27:42 - INFO - __main__[line:128]: 
+Predicting image data/random/train/images/3.2.bmp ...
+2022-08-03 23:27:45 - INFO - __main__[line:145]: Mask saved to data/random/output\3.2_OUT.bmp
+2022-08-03 23:28:09 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random2/CP_epoch1.pth
+2022-08-03 23:28:09 - INFO - __main__[line:121]: Using device cuda
+2022-08-03 23:28:11 - INFO - __main__[line:125]: Model loaded !
+2022-08-03 23:28:11 - INFO - __main__[line:128]: 
+Predicting image data/random/train/images/3.2.bmp ...
+2022-08-03 23:28:14 - INFO - __main__[line:145]: Mask saved to data/random/output\3.2_OUT.bmp
+2022-08-03 23:49:09 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random2/CP_epoch1.pth
+2022-08-03 23:49:09 - INFO - __main__[line:121]: Using device cuda
+2022-08-03 23:49:11 - INFO - __main__[line:125]: Model loaded !
+2022-08-03 23:49:11 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/8.0_affdown200.bmp ...
+2022-08-03 23:49:15 - INFO - __main__[line:145]: Mask saved to data/random/output\8.0_affdown200_OUT.bmp
+2022-08-04 15:06:35 - INFO - __main__[line:162]: Using device cuda
+2022-08-04 15:06:36 - INFO - __main__[line:170]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-04 15:06:37 - INFO - utils.dataset[line:25]: Creating dataset with 525 examples
+2022-08-04 15:06:37 - INFO - __main__[line:64]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   473
+        Validation size: 52
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.3
+    
+2022-08-04 15:09:10 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7171172116939916
+2022-08-04 15:10:55 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7516493934851426
+2022-08-04 15:12:39 - INFO - __main__[line:125]: Validation Dice Coeff: 0.717958913399623
+2022-08-04 15:14:23 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7544343597613848
+2022-08-04 15:16:08 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7521133296764814
+2022-08-04 15:17:52 - INFO - __main__[line:125]: Validation Dice Coeff: 0.831055645759289
+2022-08-04 15:19:36 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7480668540184314
+2022-08-04 15:21:20 - INFO - __main__[line:125]: Validation Dice Coeff: 0.11504521605093032
+2022-08-04 15:23:04 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7657708938305194
+2022-08-04 15:24:48 - INFO - __main__[line:125]: Validation Dice Coeff: 0.793267615712606
+2022-08-04 15:24:51 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 15:24:53 - INFO - __main__[line:135]: Checkpoint 1 saved !
+2022-08-04 15:26:44 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7902155094421827
+2022-08-04 15:28:28 - INFO - __main__[line:125]: Validation Dice Coeff: 0.805748062638136
+2022-08-04 15:30:12 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8014399157120631
+2022-08-04 15:31:56 - INFO - __main__[line:125]: Validation Dice Coeff: 0.807370697076504
+2022-08-04 15:33:40 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8013927546831278
+2022-08-04 15:35:25 - INFO - __main__[line:125]: Validation Dice Coeff: 0.797979936003685
+2022-08-04 15:37:10 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8178348862207853
+2022-08-04 15:38:55 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8005425918560761
+2022-08-04 15:40:38 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8149919532812558
+2022-08-04 15:42:22 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8115616417848147
+2022-08-04 15:42:30 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 15:42:32 - INFO - __main__[line:135]: Checkpoint 2 saved !
+2022-08-04 15:44:16 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8091619576399143
+2022-08-04 15:45:59 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8280872863072616
+2022-08-04 15:47:43 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8119199253045596
+2022-08-04 15:49:27 - INFO - __main__[line:125]: Validation Dice Coeff: 0.798076101220571
+2022-08-04 15:51:10 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8312596885057596
+2022-08-04 15:52:54 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7905157976425611
+2022-08-04 15:54:37 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8166154198921644
+2022-08-04 15:56:21 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8019295380665705
+2022-08-04 15:58:05 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8055093873005646
+2022-08-04 15:59:50 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7987770621593182
+2022-08-04 16:00:02 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 16:00:04 - INFO - __main__[line:135]: Checkpoint 3 saved !
+2022-08-04 16:01:44 - INFO - __main__[line:125]: Validation Dice Coeff: 0.768774423461694
+2022-08-04 16:03:28 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7978650239797739
+2022-08-04 16:05:12 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8105754187473884
+2022-08-04 16:06:57 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7813889613518348
+2022-08-04 16:08:43 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8183082502621871
+2022-08-04 16:10:27 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8182366112103829
+2022-08-04 16:12:12 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7926040360560784
+2022-08-04 16:13:58 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8216639378896127
+2022-08-04 16:15:42 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8260534084760226
+2022-08-04 16:17:27 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8066963266867858
+2022-08-04 16:17:44 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 16:17:46 - INFO - __main__[line:135]: Checkpoint 4 saved !
+2022-08-04 16:19:20 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8054863799076813
+2022-08-04 16:21:05 - INFO - __main__[line:125]: Validation Dice Coeff: 0.782302622611706
+2022-08-04 16:22:48 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8222707200508851
+2022-08-04 16:24:32 - INFO - __main__[line:125]: Validation Dice Coeff: 0.804467172576831
+2022-08-04 16:26:16 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8126290509333978
+2022-08-04 16:28:00 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7969516664743423
+2022-08-04 16:29:44 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8248281857142081
+2022-08-04 16:31:29 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7925369063249001
+2022-08-04 16:33:13 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8104193531549894
+2022-08-04 16:34:56 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8044751458443128
+2022-08-04 16:35:19 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 16:35:20 - INFO - __main__[line:135]: Checkpoint 5 saved !
+2022-08-04 16:41:54 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 16:41:54 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 16:41:57 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 16:41:57 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.2_affdown300.bmp ...
+2022-08-04 16:42:01 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.2_affdown300_OUT.bmp
+2022-08-04 16:49:32 - ERROR - __main__[line:98]: Input files and output files are not of the same length
+2022-08-04 16:51:37 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 16:51:37 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 16:51:39 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 16:51:39 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.2_affdown300.bmp ...
+2022-08-04 16:51:41 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.2_affdown300_OUT.bmp
+2022-08-04 16:51:41 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.2_affup100.bmp ...
+2022-08-04 16:51:44 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.2_affup100_OUT.bmp
+2022-08-04 16:54:26 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 16:54:26 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 16:54:28 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 16:54:28 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.2_affdown300.bmp ...
+2022-08-04 16:54:31 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.2_affdown300_OUT.bmp
+2022-08-04 16:54:31 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.2_affup100.bmp ...
+2022-08-04 16:54:32 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.2_affup100_OUT.bmp
+2022-08-04 16:54:32 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.2_rot140.bmp ...
+2022-08-04 16:54:33 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.2_rot140_OUT.bmp
+2022-08-04 17:00:13 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 17:00:13 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 17:00:15 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 17:00:15 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.2_affdown300.bmp ...
+2022-08-04 17:00:18 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.2_affdown300_OUT.bmp
+2022-08-04 17:00:18 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.2_affup100.bmp ...
+2022-08-04 17:00:19 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.2_affup100_OUT.bmp
+2022-08-04 17:00:19 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.2_rot140.bmp ...
+2022-08-04 17:00:21 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.2_rot140_OUT.bmp
+2022-08-04 17:00:21 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.2_rot230.bmp ...
+2022-08-04 17:00:22 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.2_rot230_OUT.bmp
+2022-08-04 17:00:22 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.2_rot320.bmp ...
+2022-08-04 17:00:24 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.2_rot320_OUT.bmp
+2022-08-04 17:00:24 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.6.bmp ...
+2022-08-04 17:00:25 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.6_OUT.bmp
+2022-08-04 17:02:26 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 17:02:26 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 17:02:28 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 17:02:28 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.6_affright200.bmp ...
+2022-08-04 17:02:31 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.6_affright200_OUT.bmp
+2022-08-04 17:02:31 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.6_rot30.bmp ...
+2022-08-04 17:02:32 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.6_rot30_OUT.bmp
+2022-08-04 17:02:32 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.6_rot70.bmp ...
+2022-08-04 17:02:34 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.6_rot70_OUT.bmp
+2022-08-04 17:02:34 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.6_rot110.bmp ...
+2022-08-04 17:02:36 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.6_rot110_OUT.bmp
+2022-08-04 17:02:36 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/3.6_rot200.bmp ...
+2022-08-04 17:02:37 - INFO - __main__[line:145]: Mask saved to data/random/test/output\3.6_rot200_OUT.bmp
+2022-08-04 17:02:37 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/4.0_affleft300.bmp ...
+2022-08-04 17:02:39 - INFO - __main__[line:145]: Mask saved to data/random/test/output\4.0_affleft300_OUT.bmp
+2022-08-04 17:04:03 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 17:04:03 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 17:04:05 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 17:04:05 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/4.0_mir.bmp ...
+2022-08-04 17:04:08 - INFO - __main__[line:145]: Mask saved to data/random/test/output\4.0_mir_OUT.bmp
+2022-08-04 17:04:08 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/4.0_rot40.bmp ...
+2022-08-04 17:04:10 - INFO - __main__[line:145]: Mask saved to data/random/test/output\4.0_rot40_OUT.bmp
+2022-08-04 17:04:10 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/4.0_rot180.bmp ...
+2022-08-04 17:04:11 - INFO - __main__[line:145]: Mask saved to data/random/test/output\4.0_rot180_OUT.bmp
+2022-08-04 17:04:11 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/4.0_rot270.bmp ...
+2022-08-04 17:04:13 - INFO - __main__[line:145]: Mask saved to data/random/test/output\4.0_rot270_OUT.bmp
+2022-08-04 17:04:13 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/5.0_affdown400.bmp ...
+2022-08-04 17:04:14 - INFO - __main__[line:145]: Mask saved to data/random/test/output\5.0_affdown400_OUT.bmp
+2022-08-04 17:04:14 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/5.0_affup200.bmp ...
+2022-08-04 17:04:16 - INFO - __main__[line:145]: Mask saved to data/random/test/output\5.0_affup200_OUT.bmp
+2022-08-04 17:05:33 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 17:05:33 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 17:05:35 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 17:05:35 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/5.0_rot150.bmp ...
+2022-08-04 17:05:38 - INFO - __main__[line:145]: Mask saved to data/random/test/output\5.0_rot150_OUT.bmp
+2022-08-04 17:05:38 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/5.0_rot240.bmp ...
+2022-08-04 17:05:39 - INFO - __main__[line:145]: Mask saved to data/random/test/output\5.0_rot240_OUT.bmp
+2022-08-04 17:05:39 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/5.0_rot330.bmp ...
+2022-08-04 17:05:41 - INFO - __main__[line:145]: Mask saved to data/random/test/output\5.0_rot330_OUT.bmp
+2022-08-04 17:05:41 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/5.6_affdown100.bmp ...
+2022-08-04 17:05:43 - INFO - __main__[line:145]: Mask saved to data/random/test/output\5.6_affdown100_OUT.bmp
+2022-08-04 17:05:43 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/5.6_affright300.bmp ...
+2022-08-04 17:05:44 - INFO - __main__[line:145]: Mask saved to data/random/test/output\5.6_affright300_OUT.bmp
+2022-08-04 17:05:44 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/5.6_rot80.bmp ...
+2022-08-04 17:05:46 - INFO - __main__[line:145]: Mask saved to data/random/test/output\5.6_rot80_OUT.bmp
+2022-08-04 17:07:08 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 17:07:08 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 17:07:10 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 17:07:10 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/5.6_rot120.bmp ...
+2022-08-04 17:07:13 - INFO - __main__[line:145]: Mask saved to data/random/test/output\5.6_rot120_OUT.bmp
+2022-08-04 17:07:13 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/5.6_rot210.bmp ...
+2022-08-04 17:07:15 - INFO - __main__[line:145]: Mask saved to data/random/test/output\5.6_rot210_OUT.bmp
+2022-08-04 17:07:15 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/5.6_rot300.bmp ...
+2022-08-04 17:07:16 - INFO - __main__[line:145]: Mask saved to data/random/test/output\5.6_rot300_OUT.bmp
+2022-08-04 17:07:16 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/6.3_affleft400.bmp ...
+2022-08-04 17:07:18 - INFO - __main__[line:145]: Mask saved to data/random/test/output\6.3_affleft400_OUT.bmp
+2022-08-04 17:07:18 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/6.3_rot10.bmp ...
+2022-08-04 17:07:19 - INFO - __main__[line:145]: Mask saved to data/random/test/output\6.3_rot10_OUT.bmp
+2022-08-04 17:07:19 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/6.3_rot50.bmp ...
+2022-08-04 17:07:21 - INFO - __main__[line:145]: Mask saved to data/random/test/output\6.3_rot50_OUT.bmp
+2022-08-04 17:09:09 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 17:09:09 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 17:09:10 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 17:09:10 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/6.3_rot190.bmp ...
+2022-08-04 17:09:13 - INFO - __main__[line:145]: Mask saved to data/random/test/output\6.3_rot190_OUT.bmp
+2022-08-04 17:09:13 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/6.3_rot280.bmp ...
+2022-08-04 17:09:15 - INFO - __main__[line:145]: Mask saved to data/random/test/output\6.3_rot280_OUT.bmp
+2022-08-04 17:09:15 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/7.1_rot160.bmp ...
+2022-08-04 17:09:16 - INFO - __main__[line:145]: Mask saved to data/random/test/output\7.1_rot160_OUT.bmp
+2022-08-04 17:09:16 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/7.1_rot250.bmp ...
+2022-08-04 17:09:18 - INFO - __main__[line:145]: Mask saved to data/random/test/output\7.1_rot250_OUT.bmp
+2022-08-04 17:09:18 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/7.1_affleft100.bmp ...
+2022-08-04 17:09:19 - INFO - __main__[line:145]: Mask saved to data/random/test/output\7.1_affleft100_OUT.bmp
+2022-08-04 17:09:19 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/7.1_affup300.bmp ...
+2022-08-04 17:09:21 - INFO - __main__[line:145]: Mask saved to data/random/test/output\7.1_affup300_OUT.bmp
+2022-08-04 17:10:39 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 17:10:39 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 17:10:41 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 17:10:41 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/7.1_rot340.bmp ...
+2022-08-04 17:10:44 - INFO - __main__[line:145]: Mask saved to data/random/test/output\7.1_rot340_OUT.bmp
+2022-08-04 17:10:44 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/8.0_affdown200.bmp ...
+2022-08-04 17:10:46 - INFO - __main__[line:145]: Mask saved to data/random/test/output\8.0_affdown200_OUT.bmp
+2022-08-04 17:10:46 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/8.0_affright400.bmp ...
+2022-08-04 17:10:47 - INFO - __main__[line:145]: Mask saved to data/random/test/output\8.0_affright400_OUT.bmp
+2022-08-04 17:10:47 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/8.0_rot90.bmp ...
+2022-08-04 17:10:49 - INFO - __main__[line:145]: Mask saved to data/random/test/output\8.0_rot90_OUT.bmp
+2022-08-04 17:10:49 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/8.0_rot130.bmp ...
+2022-08-04 17:10:50 - INFO - __main__[line:145]: Mask saved to data/random/test/output\8.0_rot130_OUT.bmp
+2022-08-04 17:10:50 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/8.0_rot220.bmp ...
+2022-08-04 17:10:52 - INFO - __main__[line:145]: Mask saved to data/random/test/output\8.0_rot220_OUT.bmp
+2022-08-04 17:12:07 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 17:12:07 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 17:12:09 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 17:12:09 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/8.0_rot310.bmp ...
+2022-08-04 17:12:12 - INFO - __main__[line:145]: Mask saved to data/random/test/output\8.0_rot310_OUT.bmp
+2022-08-04 17:12:12 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/9.0_affright100.bmp ...
+2022-08-04 17:12:13 - INFO - __main__[line:145]: Mask saved to data/random/test/output\9.0_affright100_OUT.bmp
+2022-08-04 17:12:13 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/9.0_rot20.bmp ...
+2022-08-04 17:12:15 - INFO - __main__[line:145]: Mask saved to data/random/test/output\9.0_rot20_OUT.bmp
+2022-08-04 17:12:15 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/9.0_rot60.bmp ...
+2022-08-04 17:12:17 - INFO - __main__[line:145]: Mask saved to data/random/test/output\9.0_rot60_OUT.bmp
+2022-08-04 17:12:17 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/9.0_rot100.bmp ...
+2022-08-04 17:12:18 - INFO - __main__[line:145]: Mask saved to data/random/test/output\9.0_rot100_OUT.bmp
+2022-08-04 17:12:18 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/9.0_rot290.bmp ...
+2022-08-04 17:12:20 - INFO - __main__[line:145]: Mask saved to data/random/test/output\9.0_rot290_OUT.bmp
+2022-08-04 17:14:16 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 17:14:16 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 17:14:18 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 17:14:18 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/10_affright100.bmp ...
+2022-08-04 17:14:21 - INFO - __main__[line:145]: Mask saved to data/random/test/output\10_affright100_OUT.bmp
+2022-08-04 17:14:21 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/10_rot20.bmp ...
+2022-08-04 17:14:22 - INFO - __main__[line:145]: Mask saved to data/random/test/output\10_rot20_OUT.bmp
+2022-08-04 17:14:22 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/10_rot60.bmp ...
+2022-08-04 17:14:24 - INFO - __main__[line:145]: Mask saved to data/random/test/output\10_rot60_OUT.bmp
+2022-08-04 17:14:24 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/10_rot100.bmp ...
+2022-08-04 17:14:26 - INFO - __main__[line:145]: Mask saved to data/random/test/output\10_rot100_OUT.bmp
+2022-08-04 17:14:26 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/10_rot290.bmp ...
+2022-08-04 17:14:27 - INFO - __main__[line:145]: Mask saved to data/random/test/output\10_rot290_OUT.bmp
+2022-08-04 17:14:27 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/11_affleft200.bmp ...
+2022-08-04 17:14:29 - INFO - __main__[line:145]: Mask saved to data/random/test/output\11_affleft200_OUT.bmp
+2022-08-04 17:14:51 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 17:14:51 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 17:14:53 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 17:14:53 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/11_affup400.bmp ...
+2022-08-04 17:14:56 - INFO - __main__[line:145]: Mask saved to data/random/test/output\11_affup400_OUT.bmp
+2022-08-04 17:14:56 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/11_rot170.bmp ...
+2022-08-04 17:14:58 - INFO - __main__[line:145]: Mask saved to data/random/test/output\11_rot170_OUT.bmp
+2022-08-04 17:14:58 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/11_rot260.bmp ...
+2022-08-04 17:14:59 - INFO - __main__[line:145]: Mask saved to data/random/test/output\11_rot260_OUT.bmp
+2022-08-04 17:14:59 - INFO - __main__[line:128]: 
+Predicting image data/random/test/images/11_rot350.bmp ...
+2022-08-04 17:15:01 - INFO - __main__[line:145]: Mask saved to data/random/test/output\11_rot350_OUT.bmp
+2022-08-04 17:19:24 - INFO - __main__[line:162]: Using device cuda
+2022-08-04 17:19:24 - INFO - __main__[line:170]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-04 17:19:25 - INFO - utils.dataset[line:25]: Creating dataset with 530 examples
+2022-08-04 17:19:25 - INFO - __main__[line:64]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   477
+        Validation size: 53
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.3
+    
+2022-08-04 17:21:22 - INFO - __main__[line:125]: Validation Dice Coeff: 0.4313399080397948
+2022-08-04 17:23:07 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7625075927320516
+2022-08-04 17:24:52 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7631881743107202
+2022-08-04 17:26:39 - INFO - __main__[line:125]: Validation Dice Coeff: 0.757334087817174
+2022-08-04 17:28:25 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7677720520856246
+2022-08-04 17:30:10 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7368483571511395
+2022-08-04 17:31:58 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8194222832625767
+2022-08-04 17:33:44 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7532877922058105
+2022-08-04 17:35:30 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7874049341903543
+2022-08-04 17:37:15 - INFO - __main__[line:125]: Validation Dice Coeff: 0.795626200032684
+2022-08-04 17:37:25 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 17:37:26 - INFO - __main__[line:135]: Checkpoint 1 saved !
+2022-08-04 17:39:08 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7763469995192762
+2022-08-04 17:40:53 - INFO - __main__[line:125]: Validation Dice Coeff: 0.818113515961845
+2022-08-04 17:42:39 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7879405662698565
+2022-08-04 17:44:24 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7870406767107406
+2022-08-04 17:47:49 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8117572384060554
+2022-08-04 17:53:37 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8099110171479998
+2022-08-04 17:55:30 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7838756250885298
+2022-08-04 17:57:17 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7839807193234282
+2022-08-04 17:59:28 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7931330822548777
+2022-08-04 18:01:15 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7912180142582588
+2022-08-04 18:01:35 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 18:01:36 - INFO - __main__[line:135]: Checkpoint 2 saved !
+2022-08-04 18:03:16 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7981266514310297
+2022-08-04 18:05:01 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8068534394480148
+2022-08-04 18:06:51 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7811536294109417
+2022-08-04 18:09:13 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7911068234803542
+2022-08-04 18:11:32 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8057552666034339
+2022-08-04 18:13:20 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8001609838233804
+2022-08-04 18:15:36 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7859393268261315
+2022-08-04 18:17:24 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7936393708552955
+2022-08-04 18:19:10 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7919682118127931
+2022-08-04 18:20:55 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7762080363507541
+2022-08-04 18:21:26 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 18:21:27 - INFO - __main__[line:135]: Checkpoint 3 saved !
+2022-08-04 18:22:41 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7750186605273552
+2022-08-04 18:24:26 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7993230549794323
+2022-08-04 18:26:13 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7981035338257844
+2022-08-04 18:28:00 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8057452856369738
+2022-08-04 18:29:47 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8025251818153093
+2022-08-04 18:31:31 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7918250167144919
+2022-08-04 18:33:16 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7993696534408713
+2022-08-04 18:35:03 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7937382088517243
+2022-08-04 18:36:50 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7844488856927404
+2022-08-04 18:38:37 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7945143265544243
+2022-08-04 18:39:19 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 18:39:20 - INFO - __main__[line:135]: Checkpoint 4 saved !
+2022-08-04 18:40:25 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7813873954539029
+2022-08-04 18:42:17 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8095598884348599
+2022-08-04 18:44:02 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8046149319072939
+2022-08-04 18:45:47 - INFO - __main__[line:125]: Validation Dice Coeff: 0.781178872540312
+2022-08-04 18:48:55 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7998588613744052
+2022-08-04 18:50:37 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7900964955113968
+2022-08-04 18:52:20 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7901098514502903
+2022-08-04 18:54:02 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7888383280556157
+2022-08-04 18:55:46 - INFO - __main__[line:125]: Validation Dice Coeff: 0.788974514547384
+2022-08-04 18:57:28 - INFO - __main__[line:125]: Validation Dice Coeff: 0.817773312892554
+2022-08-04 18:58:21 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 18:58:22 - INFO - __main__[line:135]: Checkpoint 5 saved !
+2022-08-04 19:36:38 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 19:36:38 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 19:36:47 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 19:36:47 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1.bmp ...
+2022-08-04 19:37:01 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_OUT.bmp
+2022-08-04 19:37:01 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_affdown100.bmp ...
+2022-08-04 19:37:03 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_affdown100_OUT.bmp
+2022-08-04 19:37:03 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_affdown200.bmp ...
+2022-08-04 19:37:04 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_affdown200_OUT.bmp
+2022-08-04 19:37:04 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_affdown300.bmp ...
+2022-08-04 19:37:08 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_affdown300_OUT.bmp
+2022-08-04 19:37:08 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_affdown400.bmp ...
+2022-08-04 19:37:10 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_affdown400_OUT.bmp
+2022-08-04 19:37:10 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_affleft100.bmp ...
+2022-08-04 19:37:12 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_affleft100_OUT.bmp
+2022-08-04 19:39:03 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 19:39:03 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 19:39:05 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 19:39:05 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_affup400.bmp ...
+2022-08-04 19:39:08 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_affup400_OUT.bmp
+2022-08-04 19:39:08 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_mir.bmp ...
+2022-08-04 19:39:09 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_mir_OUT.bmp
+2022-08-04 19:39:09 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot30.bmp ...
+2022-08-04 19:39:11 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot30_OUT.bmp
+2022-08-04 19:39:11 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot60.bmp ...
+2022-08-04 19:39:12 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot60_OUT.bmp
+2022-08-04 19:39:12 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot90.bmp ...
+2022-08-04 19:39:14 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot90_OUT.bmp
+2022-08-04 19:39:14 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot120.bmp ...
+2022-08-04 19:39:15 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot120_OUT.bmp
+2022-08-04 19:40:29 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 19:40:29 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 19:40:31 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 19:40:31 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot150.bmp ...
+2022-08-04 19:40:34 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot150_OUT.bmp
+2022-08-04 19:40:34 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot180.bmp ...
+2022-08-04 19:40:36 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot180_OUT.bmp
+2022-08-04 19:40:36 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot210.bmp ...
+2022-08-04 19:40:37 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot210_OUT.bmp
+2022-08-04 19:40:37 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot240.bmp ...
+2022-08-04 19:40:39 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot240_OUT.bmp
+2022-08-04 19:40:39 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot270.bmp ...
+2022-08-04 19:40:40 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot270_OUT.bmp
+2022-08-04 19:40:40 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot300.bmp ...
+2022-08-04 19:40:42 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot300_OUT.bmp
+2022-08-04 19:41:35 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_random/CP_epoch5.pth
+2022-08-04 19:41:35 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 19:41:37 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 19:41:37 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot330.bmp ...
+2022-08-04 19:41:40 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot330_OUT.bmp
+2022-08-04 19:43:11 - INFO - __main__[line:162]: Using device cuda
+2022-08-04 19:43:11 - INFO - __main__[line:170]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-04 19:43:12 - INFO - utils.dataset[line:25]: Creating dataset with 530 examples
+2022-08-04 19:43:12 - INFO - __main__[line:64]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   477
+        Validation size: 53
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.3
+    
+2022-08-04 19:43:34 - INFO - __main__[line:162]: Using device cuda
+2022-08-04 19:43:35 - INFO - __main__[line:170]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-04 19:43:35 - INFO - utils.dataset[line:25]: Creating dataset with 530 examples
+2022-08-04 19:43:35 - INFO - __main__[line:64]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   477
+        Validation size: 53
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.4
+    
+2022-08-04 19:43:52 - INFO - __main__[line:162]: Using device cuda
+2022-08-04 19:43:53 - INFO - __main__[line:170]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-04 19:43:53 - INFO - utils.dataset[line:25]: Creating dataset with 530 examples
+2022-08-04 19:43:53 - INFO - __main__[line:64]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   477
+        Validation size: 53
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.3
+    
+2022-08-04 19:45:43 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_7/CP_epoch5.pth
+2022-08-04 19:45:43 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 19:45:47 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 19:45:47 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot150.bmp ...
+2022-08-04 19:45:51 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot150_OUT.bmp
+2022-08-04 19:45:51 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot180.bmp ...
+2022-08-04 19:45:53 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot180_OUT.bmp
+2022-08-04 19:45:53 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot210.bmp ...
+2022-08-04 19:45:54 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot210_OUT.bmp
+2022-08-04 19:45:54 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot240.bmp ...
+2022-08-04 19:45:56 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot240_OUT.bmp
+2022-08-04 19:45:56 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot270.bmp ...
+2022-08-04 19:45:57 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot270_OUT.bmp
+2022-08-04 19:45:57 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot300.bmp ...
+2022-08-04 19:45:59 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot300_OUT.bmp
+2022-08-04 19:47:22 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_7/CP_epoch5.pth
+2022-08-04 19:47:22 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 19:47:24 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 19:47:24 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot120.bmp ...
+2022-08-04 19:47:27 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot120_OUT.bmp
+2022-08-04 19:47:27 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot90.bmp ...
+2022-08-04 19:47:28 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot90_OUT.bmp
+2022-08-04 19:47:28 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot60.bmp ...
+2022-08-04 19:47:30 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot60_OUT.bmp
+2022-08-04 19:47:30 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot30.bmp ...
+2022-08-04 19:47:32 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot30_OUT.bmp
+2022-08-04 19:47:32 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_mir.bmp ...
+2022-08-04 19:47:33 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_mir_OUT.bmp
+2022-08-04 19:47:33 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_affup400.bmp ...
+2022-08-04 19:47:35 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_affup400_OUT.bmp
+2022-08-04 19:48:41 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_7/CP_epoch5.pth
+2022-08-04 19:48:41 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 19:48:43 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 19:48:43 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_affright400.bmp ...
+2022-08-04 19:48:46 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_affright400_OUT.bmp
+2022-08-04 19:48:46 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_affleft400.bmp ...
+2022-08-04 19:48:48 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_affleft400_OUT.bmp
+2022-08-04 19:48:48 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_affdown400.bmp ...
+2022-08-04 19:48:50 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_affdown400_OUT.bmp
+2022-08-04 19:48:50 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_rot30.bmp ...
+2022-08-04 19:48:51 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_rot30_OUT.bmp
+2022-08-04 19:48:51 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1.bmp ...
+2022-08-04 19:48:52 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_OUT.bmp
+2022-08-04 19:48:52 - INFO - __main__[line:128]: 
+Predicting image data/7/test/images/7.1_affup400.bmp ...
+2022-08-04 19:48:54 - INFO - __main__[line:145]: Mask saved to data/7/test/output\7.1_affup400_OUT.bmp
+2022-08-04 19:50:14 - INFO - __main__[line:162]: Using device cuda
+2022-08-04 19:50:14 - INFO - __main__[line:170]: Network:
+	3 input channels
+	1 output channels (classes)
+	Bilinear upscaling
+2022-08-04 19:50:15 - INFO - utils.dataset[line:25]: Creating dataset with 530 examples
+2022-08-04 19:50:15 - INFO - __main__[line:64]: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   0.0001
+        Training size:   477
+        Validation size: 53
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.3
+    
+2022-08-04 19:52:04 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7566903008604949
+2022-08-04 19:53:47 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7779439429067215
+2022-08-04 19:55:31 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8175175594833662
+2022-08-04 19:57:15 - INFO - __main__[line:125]: Validation Dice Coeff: 0.801514816734026
+2022-08-04 19:59:00 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8226535612682127
+2022-08-04 20:00:45 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7502513033039165
+2022-08-04 20:02:28 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8011170681917442
+2022-08-04 20:04:13 - INFO - __main__[line:125]: Validation Dice Coeff: 0.7735039636773883
+2022-08-04 20:05:59 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8162415117587684
+2022-08-04 20:07:43 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8112640358367056
+2022-08-04 20:07:53 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 20:07:54 - INFO - __main__[line:135]: Checkpoint 1 saved !
+2022-08-04 20:09:34 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8232786711656822
+2022-08-04 20:11:18 - INFO - __main__[line:125]: Validation Dice Coeff: 0.798983022851764
+2022-08-04 20:13:03 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8249459975170639
+2022-08-04 20:14:49 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8160562470274152
+2022-08-04 20:16:34 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8003876332966786
+2022-08-04 20:18:17 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8414102522832043
+2022-08-04 20:20:02 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8399411282449398
+2022-08-04 20:21:47 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8288431055140946
+2022-08-04 20:23:30 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8279366223317273
+2022-08-04 20:25:13 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8333036505951071
+2022-08-04 20:25:34 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 20:25:35 - INFO - __main__[line:135]: Checkpoint 2 saved !
+2022-08-04 20:27:04 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8224121804507274
+2022-08-04 20:28:48 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8371948183707472
+2022-08-04 20:30:33 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8154053159479825
+2022-08-04 20:32:18 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8175831909449596
+2022-08-04 20:34:06 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8442027506963262
+2022-08-04 20:35:50 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8574905777877232
+2022-08-04 20:37:37 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8261323886097602
+2022-08-04 20:39:21 - INFO - __main__[line:125]: Validation Dice Coeff: 0.826833612513992
+2022-08-04 20:41:05 - INFO - __main__[line:125]: Validation Dice Coeff: 0.811645267706997
+2022-08-04 20:42:47 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8208002897928346
+2022-08-04 20:43:19 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 20:43:20 - INFO - __main__[line:135]: Checkpoint 3 saved !
+2022-08-04 20:44:34 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8482815488329474
+2022-08-04 20:46:17 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8139660611467542
+2022-08-04 20:48:01 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8222889067991724
+2022-08-04 20:49:44 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8122231296773227
+2022-08-04 20:51:30 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8167999330556618
+2022-08-04 20:53:15 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8342757168805824
+2022-08-04 20:55:02 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8244765220947985
+2022-08-04 20:56:46 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8222936965384573
+2022-08-04 20:58:30 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8182732991452487
+2022-08-04 21:00:14 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8044238529115353
+2022-08-04 21:00:56 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 21:00:57 - INFO - __main__[line:135]: Checkpoint 4 saved !
+2022-08-04 21:02:00 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8559508897223562
+2022-08-04 21:03:44 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8243644788580121
+2022-08-04 21:05:28 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8308085203170776
+2022-08-04 21:07:13 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8327116988739878
+2022-08-04 21:08:58 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8071202062210947
+2022-08-04 21:10:41 - INFO - __main__[line:125]: Validation Dice Coeff: 0.852506234960736
+2022-08-04 21:12:24 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8115684153898707
+2022-08-04 21:14:08 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8191620696265742
+2022-08-04 21:15:52 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8194559137776213
+2022-08-04 21:17:35 - INFO - __main__[line:125]: Validation Dice Coeff: 0.8118055361621784
+2022-08-04 21:18:28 - ERROR - __main__[line:132]: Failed to created checkpoint directory!
+2022-08-04 21:18:29 - INFO - __main__[line:135]: Checkpoint 5 saved !
+2022-08-04 21:50:55 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_8/CP_epoch5.pth
+2022-08-04 21:50:55 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 21:50:58 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 21:50:58 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0.bmp ...
+2022-08-04 21:51:02 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_OUT.bmp
+2022-08-04 21:51:02 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_affdown400.bmp ...
+2022-08-04 21:51:03 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_affdown400_OUT.bmp
+2022-08-04 21:51:03 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_affleft400.bmp ...
+2022-08-04 21:51:05 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_affleft400_OUT.bmp
+2022-08-04 21:51:05 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_affright400.bmp ...
+2022-08-04 21:51:06 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_affright400_OUT.bmp
+2022-08-04 21:51:06 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_affup400.bmp ...
+2022-08-04 21:51:08 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_affup400_OUT.bmp
+2022-08-04 21:51:08 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_mir.bmp ...
+2022-08-04 21:51:09 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_mir_OUT.bmp
+2022-08-04 21:52:39 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_8/CP_epoch5.pth
+2022-08-04 21:52:39 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 21:52:41 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 21:52:41 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_rot30.bmp ...
+2022-08-04 21:52:44 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_rot30_OUT.bmp
+2022-08-04 21:52:44 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_rot60.bmp ...
+2022-08-04 21:52:45 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_rot60_OUT.bmp
+2022-08-04 21:52:45 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_rot90.bmp ...
+2022-08-04 21:52:46 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_rot90_OUT.bmp
+2022-08-04 21:52:46 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_rot120.bmp ...
+2022-08-04 21:52:47 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_rot120_OUT.bmp
+2022-08-04 21:52:47 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_rot150.bmp ...
+2022-08-04 21:52:49 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_rot150_OUT.bmp
+2022-08-04 21:52:49 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_rot180.bmp ...
+2022-08-04 21:52:50 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_rot180_OUT.bmp
+2022-08-04 21:53:50 - INFO - __main__[line:118]: Loading model checkpoints/checkpoints_8/CP_epoch5.pth
+2022-08-04 21:53:50 - INFO - __main__[line:121]: Using device cuda
+2022-08-04 21:53:52 - INFO - __main__[line:125]: Model loaded !
+2022-08-04 21:53:52 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_rot210.bmp ...
+2022-08-04 21:53:54 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_rot210_OUT.bmp
+2022-08-04 21:53:54 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_rot240.bmp ...
+2022-08-04 21:53:56 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_rot240_OUT.bmp
+2022-08-04 21:53:56 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_rot270.bmp ...
+2022-08-04 21:53:57 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_rot270_OUT.bmp
+2022-08-04 21:53:57 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_rot300.bmp ...
+2022-08-04 21:53:58 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_rot300_OUT.bmp
+2022-08-04 21:53:58 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_rot330.bmp ...
+2022-08-04 21:54:00 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_rot330_OUT.bmp
+2022-08-04 21:54:00 - INFO - __main__[line:128]: 
+Predicting image data/8/test/images/8.0_rot180.bmp ...
+2022-08-04 21:54:01 - INFO - __main__[line:145]: Mask saved to data/8/test/output\8.0_rot180_OUT.bmp
