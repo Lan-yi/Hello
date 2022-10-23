@@ -1,0 +1,7 @@
+current_path:  D:\Study\Python\PythonProject\Hello\UNet\UNet-pytorch-master\configs\logger.yaml
+2022-07-26 10:33:53 - INFO - __main__[line:118]: Loading model CP_epoch5.pth
+2022-07-26 10:33:53 - INFO - __main__[line:121]: Using device cpu
+2022-07-26 10:33:53 - INFO - __main__[line:125]: Model loaded !
+2022-07-26 10:33:53 - INFO - __main__[line:128]: 
+Predicting image SmoothIm5.0ModelInv_mir.bmp ...
+2022-07-26 10:34:05 - INFO - __main__[line:145]: Mask saved to data\SmoothIm5.0ModelInv_mir_OUT.bmp
